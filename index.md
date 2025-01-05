@@ -25,7 +25,7 @@ We store the intermediate neural representations of all SVBRDFs (also described 
 #### 3. Raw images (15TB)
 We also store the 193 raw HDR photographs (with a resolution of 24MP) for each sample. The total size is 15TB (each sample is 15GB).
 
-#### 4. Code (Coming Soon)
+#### 4. <a href="https://github.com/OpenSVBRDF/OpenSVBRDF_source_code"><span class="enlarge">Code</span></a>
 The code encompasses all the steps from processing the original captured photographs to fine-tuning neural representations. You can also separately download the portion of the code that converts neural representations into lumitexel vectors.
 
 ## Benchmarks
